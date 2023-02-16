@@ -4,5 +4,5 @@ git config user.name "caxmirror"
 git config user.email "627085892@qq.com"
 git add .
 git commit -m "DoubanCrawler 1.0"
-git push -u origin master
+git push -u origin main
 pause
